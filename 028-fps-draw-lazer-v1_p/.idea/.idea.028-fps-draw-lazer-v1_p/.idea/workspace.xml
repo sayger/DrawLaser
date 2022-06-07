@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="380608ef-3575-48d9-91b0-792142713c41" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.028-fps-draw-lazer-v1_p/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.028-fps-draw-lazer-v1_p/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InternalAssets/Chars/Animations/Run With Sword_witout.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InternalAssets/Chars/Animations/Run With Sword_witout.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InternalAssets/Chars/Animations/Sword_attack_witout.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InternalAssets/Chars/Animations/Sword_attack_witout.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InternalAssets/Chars/Bot/Enemy/enemy.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InternalAssets/Chars/Bot/Enemy/enemy.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InternalAssets/Chars/Bot/Hostage/Hostage.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InternalAssets/Chars/Bot/Hostage/Hostage.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InternalAssets/Chars/Bot/Materials/Atlas_enemy_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InternalAssets/Chars/Bot/Materials/Atlas_enemy_1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Experiments/Ufuk/U_Experiment.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Experiments/Ufuk/U_Experiment.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="230NYsTPnpX5gV161lGxPMF1WpH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="380608ef-3575-48d9-91b0-792142713c41" name="Changes" comment="" />
+      <created>1640867099900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640867099900</updated>
+      <workItem from="1640867104560" duration="4856000" />
+      <workItem from="1641206210330" duration="5063000" />
+      <workItem from="1641298711364" duration="3524000" />
+      <workItem from="1641374869212" duration="9165000" />
+      <workItem from="1641468403485" duration="2539000" />
+      <workItem from="1641472770241" duration="2170000" />
+<<<<<<< HEAD
+      <workItem from="1642145288621" duration="6474000" />
+      <workItem from="1642167406827" duration="2106000" />
+      <workItem from="1642173871627" duration="2201000" />
+      <workItem from="1642237750071" duration="3065000" />
+=======
+      <workItem from="1641542627846" duration="4256000" />
+      <workItem from="1641564476952" duration="2900000" />
+>>>>>>> 545105007fae33eebb69e1da1fbf0b23b143a32e
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

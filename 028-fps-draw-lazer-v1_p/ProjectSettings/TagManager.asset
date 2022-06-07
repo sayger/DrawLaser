@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - HitPoint
+  - Target
+  - Draw
+  - Barrel
+  - Draw1
+  - EnemyParent
+  - Draw2
+  - Draw3
+  - CupTarget
+  - stopNav
+  - Door
+  - DoorPoint
+  - Box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - FakeCanvas
+  - Player
+  - HitPointManifest
+  - AimReference
+  - Ground
+  - Enemy
+  - EnemyMesh
+  - Target
+  - Door
+  - Duck
+  - Box
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
